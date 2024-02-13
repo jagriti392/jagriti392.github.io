@@ -1,0 +1,68 @@
+.main{
+    align-items: center;
+    background:url(https://img.freepik.com/premium-photo/blurry-black-abstract-texture-background_351397-1037.jpg);
+     box-shadow: 0 10px 10px -10px rgba(56, 85, 129, 0.1);
+     box-sizing:content-box;
+     display: flex;
+     height: 90px;
+     justify-content: center;
+     padding: 0 13%;
+     position: -webkit-sticky;
+     top: 0;
+     margin-top: -10px;
+     position: sticky;
+     display: flex;
+     font-family: Poppins,sans-serif; 
+     color:white;
+ }
+ .main .secondchild> a{
+    text-decoration: none;
+ }
+ .firstchild{
+     flex: 0.4 1;
+     color:white;
+    }
+    
+    img {
+        height: 80px;
+        width: 160px;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+     
+     
+     
+ }
+ .firstchild>img{
+     margin-left: 30px;
+     height: 65px;
+     width: 65px;
+     overflow-clip-margin: content-box;
+     overflow: clip;
+     overflow-x: clip;
+     overflow-y: clip ;
+     
+     
+ }
+ 
+ .secondchild{
+    display: flex;
+    flex: 1 5;
+    justify-content: space-between;
+    font-size: 20px;
+    font-style:bold;
+    text-decoration: none;
+    
+ 
+ }
+ 
+ .thirdchild{
+     
+     flex: 0.4 1;
+
+     
+ }
+ 
+ .thirdchild>button{
+     margin-left: 120px;
+     
+ }

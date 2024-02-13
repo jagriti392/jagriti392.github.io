@@ -1,0 +1,55 @@
+.contact-container-page {
+    background-image: url(https://img.freepik.com/premium-photo/blurry-black-abstract-texture-background_351397-1037.jpg);
+    padding-bottom: 40px;
+    padding-top: 20px;
+    width: 100%;
+    display: block;
+    font-family: Poppins,sans-serif
+}
+
+.heading-page {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    display: block;
+    font-size: 45px;
+    margin-block-start:.67em;margin-block-end:.67em;margin-inline-start:0px;margin-inline-end:0px;font-weight: 700;
+    font-family: Poppins,sans-serif
+}
+
+.heading2-page {
+    color: white;
+    margin: 28px;
+    text-align: center
+}
+
+.contact-allLinksDiv {
+    color: white;
+    display: flex;
+    font-size: 33px;
+    gap: 35px;
+    justify-content: center;
+    margin-top: 30px
+}
+
+div {
+    display: block
+}
+
+.contact-allLinksDiv>div>a {
+    text-decoration: none
+}
+
+.contact-platfromLinks {
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+    font-size: 30px;
+    padding: 3px 5px
+}
+
+body {
+    font-family: DM Sans,sans-serif
+}

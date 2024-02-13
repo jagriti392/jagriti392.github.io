@@ -1,0 +1,150 @@
+/* 
+.home-page-container{
+    display: block;
+    background-color: white;
+    margin-left:30px;
+
+    
+}
+.home-left-side>h1{
+    font-size: 45px;
+    font-weight: 700;
+    color:beige;
+}
+
+.home-left-side>img{
+    height: 50px;
+    width: 50px;
+    overflow-clip-margin: content-box;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    
+    
+}
+.home-left-side>h2{
+    font-size: 45px;
+    margin-top: -130px;
+    margin-bottom: 130px;
+    margin-left: 130px;
+}
+.home-left-side>h3{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: -120px;
+    margin-bottom: 120px;
+    
+}
+.home-right-side>img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border: red;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: -300px;
+} */
+
+.home-containar {
+    margin-top: -40px;
+    margin-bottom: 100px;
+    width: 100%;
+    background:url(https://img.freepik.com/premium-photo/blurry-black-abstract-texture-background_351397-1037.jpg)
+}
+
+.home-containar .home-left-side>h3 {
+    margin-left: 120px;
+    font-size: 40px;
+    margin-bottom: 60px
+
+}
+.h3{
+    color:white;
+}
+
+.home-containar .home-left-side>h4 {
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: -70px
+}
+
+.home-containar .home-left-side>h5 {
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: -40px
+
+}
+
+.home-containar .home-left-side>h6 {
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: -50px
+    
+}
+
+.home-containar .resumeButton {
+    width: 100%;
+    display: flex;
+    gap: 20px
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline
+}
+
+.home-containar>a {
+    text-decoration: none
+}
+
+.home-containar .home-right-side>div>img {
+    margin-left: 700px;
+    height: 420px;
+    width: 450px;
+    border-radius: 60px 70px 40px 140px;
+    border: solid 10px white;
+    margin-top: -347px
+    
+    
+}
+
+.container {
+    align-items: center;
+    background-color: #000;
+    box-shadow: 0 10px 10px -10px #3855811a;
+    box-sizing: content-box;
+    height: 90px;
+    justify-content: center;
+    padding: 0 13%;
+    position: -webkit-sticky;
+    top: 0;
+    margin-top: -10px;
+    position: sticky;
+    display: flex;
+    font-family: Poppins,sans-serif
+}
+
+.first-child {
+    display: block
+}
+
+img {
+    height: 80px;
+    width: 160px;
+    overflow-clip-margin: content-box;
+    overflow: clip
+}
+
+.second-child {
+    display: flex;
+    flex: 1 4;
+    justify-content: space-evenly;
+    font-family: Poppins,sans-serif
+}
+
+.container .second-child div>a {
+    font-weight: 1000;
+    text-decoration: none;
+    color:red;
+}

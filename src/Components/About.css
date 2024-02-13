@@ -1,0 +1,29 @@
+.about-side>h1 {
+    margin-top: 100px;
+    font-size: 60px;
+    padding-top: 80px;
+    color: white;
+    text-align: center
+}
+
+.about-side>p {
+    margin-left: 320px;
+    margin-right: 320px;
+    font-size: 24px;
+    color: white;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 10px solid white
+}
+
+.cont {
+    background:url(https://img.freepik.com/premium-photo/blurry-black-abstract-texture-background_351397-1037.jpg);
+}
+
+.about-page-container {
+    margin-top: -80px
+}
+
+.mail-side {
+    text-align: center
+}

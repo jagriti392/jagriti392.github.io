@@ -1,0 +1,45 @@
+
+.skill-page>h1 {
+    margin-left: 40%;
+    margin-top: -20px;
+    color: white;
+    font-size: 90px
+}
+
+.skills {
+    width: 85%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(120px,max-content));
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 60px;
+    gap: 150px
+}
+
+.skills>img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%
+}
+
+.skill>img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%
+}
+
+.skill {
+    width: 85%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(120px,max-content));
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 100px;
+    gap: 150px
+}
+
+.skill-count {
+    background-image: url(https://img.freepik.com/premium-photo/blurry-black-abstract-texture-background_351397-1037.jpg)
+}
